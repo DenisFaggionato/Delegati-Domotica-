@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tuTtsyJNtnHDDAFF06Zc0p3Wduqh4ZvbnL7hMWT++2JGxDi2w+Vbk1qLC1kpvII9S+GlWocwg4nxkd15EEOmDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\10182177\\source\\repos\\Verifica\\Verifica\\Verifica.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\10182177\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\10182177\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\10182177\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\10182177\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}

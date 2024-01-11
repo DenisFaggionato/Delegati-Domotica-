@@ -1,0 +1,5 @@
+C:\Users\10182177\source\repos\Verifica\Verifica\obj\Debug\net6.0\Verifica.csproj.AssemblyReference.cache
+C:\Users\10182177\source\repos\Verifica\Verifica\obj\Debug\net6.0\Verifica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10182177\source\repos\Verifica\Verifica\obj\Debug\net6.0\Verifica.AssemblyInfoInputs.cache
+C:\Users\10182177\source\repos\Verifica\Verifica\obj\Debug\net6.0\Verifica.AssemblyInfo.cs
+C:\Users\10182177\source\repos\Verifica\Verifica\obj\Debug\net6.0\Verifica.csproj.CoreCompileInputs.cache
